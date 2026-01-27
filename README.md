@@ -1,8 +1,15 @@
 # Sri-Balaji-Plastics
 Official company portfolio website for Sri Balaji Plastics — showcasing recycled plastic materials (HM, LD, Colored), processes, and contact details with a modern, responsive design.
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Design-green)
-![Business Website](https://img.shields.io/badge/Type-Business%20Portfolio-success)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+## 🛠️ BUILT WITH
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive%20Design-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Maps-black?style=for-the-badge"/>
+</p>
